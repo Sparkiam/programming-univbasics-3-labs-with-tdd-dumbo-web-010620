@@ -1,3 +1,2 @@
 # Add your variables here
-def first_number()
-  do 
+first_number = "Hello world"
